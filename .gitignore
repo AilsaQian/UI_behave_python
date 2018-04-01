@@ -1,0 +1,4 @@
+*.pyc
+infoConfig.py
+*.log
+steps/userLogin.py
